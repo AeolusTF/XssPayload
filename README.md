@@ -2,7 +2,7 @@
 # XssPayload
 
 
-# 食用指南 How To Use It
+# 使用指南 How To Use It
 
 -------
 
